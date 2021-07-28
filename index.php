@@ -36,7 +36,7 @@ $page=$page==""?"home":$page;
         <div class=" col-md-6 col-sm-6 col-6 brand-name ">
 
           <h3>
-            <a href="index.html"> Magazine <sup> TM</sup> </a>
+            <a href="index.php"> Magazine <sup> TM</sup> </a>
           </h3>
 
 
