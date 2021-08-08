@@ -41,7 +41,7 @@ curl_close($curl);
 		
 		</a>
           <div class="container ">
-            <a href="${myObj.articles[i].url}" target="_blank">
+           <a href="<?php echo $res->url; ?>" target="_blank">
             <p><?php echo $res->title; ?></p> </a>
             
           </div>
